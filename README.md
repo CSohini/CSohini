@@ -39,7 +39,7 @@ Achievements
 ------------------------
 Cumulative GPA: 4.00/4.00 (Graduate Program)
 
-Awarded with Honor for being in the top 5% of graduate students for academic excellence and exemplary achievements.
+Awarded with Honors for being in the top 5% of graduate students for academic excellence and exemplary achievements.
 
 Recognized with the 'Limelight Award' at the 2021 Annual Awards Ceremony
 
