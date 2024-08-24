@@ -1,15 +1,15 @@
-- 👋 Hi, I’m Sohini
--
-- About me:
-- 
-- Result-driven Data Analyst highly proficient in Python, SQL, and Excel, with strong experience in data visualization using Power BI and Tableau. Proven track record in driving operational efficiency, contributing to a 20% increase in efficiency at Mordor Intelligence through advanced data analysis and process optimization. Successfully mentored a team, enhancing their analytical capabilities by 30%. Passionate about using data to solve real-world problems and drive impactful decision-making.
+👋 Hi, I’m Sohini
 
-- 👀 I’m interested in PC Gaming, Painting, Animals, and Sports (badminton, tennis, volleyball)
-- 
+About me:
 
-- 📫 How to reach me ... email me: sohinichintala1999@gmail.com
+Result-driven Data Analyst highly proficient in Python, SQL, and Excel, with strong experience in data visualization using Power BI and Tableau. Proven track record in driving operational efficiency, contributing to a 20% increase in efficiency at Mordor Intelligence through advanced data analysis and process optimization. Successfully mentored a team, enhancing their analytical capabilities by 30%. Passionate about using data to solve real-world problems and drive impactful decision-making.
+
+👀 I’m interested in PC Gaming, Painting, Animals, and Sports (badminton, tennis, volleyball)
+
+📫 How to reach me ... email me: sohinichintala1999@gmail.com
 
 Portfolio: https://sohinichintala.my.canva.site/
+
 https://www.linkedin.com/in/sohini-chintala
 
 ------------------------
