@@ -17,21 +17,30 @@ https://www.linkedin.com/in/sohini-chintala
 Education
 ------------------------
 Master of Science - Business Analytics
+
 University of Massachusetts, Amherst
+
 05/2023 - 05/2024
+
 Amherst, MA
 
 
+
 Bachelor of Technology - Mechanical Engineering
+
 Mahindra University
+
 08/2016 - 10/2020
+
 Hyderabad, India
-Courses
+
 
 Achievements
 ------------------------
 Cumulative GPA: 4.00/4.00 (Graduate Program)
+
 Awarded with Honor for being in the top 5% of graduate students for academic excellence and exemplary achievements.
+
 Recognized with the 'Limelight Award' at the 2021 Annual Awards Ceremony
 
 
@@ -39,7 +48,7 @@ Projects
 ------------------------
 Data Science: Classification - Loan Eligibility Prediction
 - Evaluated <b>Logistic Regression, K-NN, </b>and <b>Decision Trees</b> models based on accuracy, precision, feature importance and relevance to actual bank procedures for home loan approval.  
--  Achieved 86% accuracy for predicting loan eligibility using Logistic Regression and 79% using Decision Trees, with around 85% precision for classifying eligible customers for both models.  
+- Achieved 86% accuracy for predicting loan eligibility using Logistic Regression and 79% using Decision Trees, with around 85% precision for classifying eligible customers for both models.  
 
 Financial Accounting: Comprehensive Analysis
 - Developed comprehensive financial models to support budgeting and forecasting for a major business unit and prepared detailed financial reports and presentations, contributing to strategic decision-making for the company. 
@@ -98,7 +107,7 @@ Freelancer Data Analyst 09/2022 - 04/2023
 Research Data Analyst
 Mordor Intelligence
 07/2020 - 09/2022
-Market Research Consultant
+
 Achievements/Tasks
 - Analyzed and interpreted complex data sets, utilizing statistical software such as Python, to provide actionable insights and cleanse the data sets, contributing to a 20% increase in operational efficiency over a 12-month period. 
 - Developed strategic data mapping and cataloging to enhance business intelligence and reporting capabilities, maintaining high data standards and consistency. 
