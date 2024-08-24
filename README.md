@@ -85,7 +85,9 @@ Skills
 Certificates
 ------------------------
 Microsoft Certified Power BI Data Analyst - 02/2024 - 02/2025
+
 Google Data Analytics Professional - Google
+
 Data Scientist in Python - DataCamp
 
 
@@ -114,4 +116,5 @@ Achievements/Tasks
 Organizations and Clubs
 ------------------------
 Member of the Honor Society of Phi Kappa Phi
+
 Isenberg  Women in Business Club Member
