@@ -8,7 +8,7 @@ Data Analyst with 5 years of experience driving data-informed decision-making ac
 
 🎓 Education
 - Master of Science in Business Analytics — University of Massachusetts Amherst (GPA: 4.0/4.0)
-      - Awarded with Honors — top 5% of graduate students
+-       Awarded with Honors — top 5% of graduate students
 - Bachelor of Technology in Mechanical Engineering — Mahindra University
 
 🛠 Technical skills
@@ -28,46 +28,47 @@ to Conference on Language Modeling (COLM 2026).
 
 💼 Experience
 - Product Data Analyst, Fixed Ops — WarrCloud (Apr 2025 – Apr 2026)
-      - Owned end-to-end KPI design and BI dashboarding in QuickSight.
-      - Built ETL pipelines and data validation frameworks improving data accuracy by 40%.
-      - Reduced ad hoc analysis requests by 35% through standardized reporting.
+-       Owned end-to-end KPI design and BI dashboarding in QuickSight.
+-       Built ETL pipelines and data validation frameworks improving data accuracy by 40%.
+-       Reduced ad hoc analysis requests by 35% through standardized reporting.
 Tools: AWS Redshift, QuickSight, SQL, Python, Sagemaker, Google Sheets, JIRA, Confluence, Kanban
 
 - Data Analyst — Community Dreams Foundation (Sep 2024 – Mar 2025)
-      - Designed reporting frameworks tracking user acquisition, engagement, retention, and conversion metrics.
-      - Conducted cohort and segmentation analysis to inform outreach strategies.
+-       Designed reporting frameworks tracking user acquisition, engagement, retention, and conversion metrics.
+-       Conducted cohort and segmentation analysis to inform outreach strategies.
 Tools: Power BI, Microsoft Excel, SQL, dbt, Visual Studio
 
 - Research Data Analyst — Mordor Intelligence (Jul 2020 – Jan 2023)
--       SQL and Python-based analysis including regression, forecasting, and A/B testing across 10+ industry verticals. Mentored 6 analysts, increasing team efficiency by 30%. Awarded the Limelight Award for innovative client solutions.
+-       SQL and Python-based analysis including regression, forecasting, and A/B testing across 10+ industry verticals.
+-       Mentored 6 analysts, increasing team efficiency by 30%. Awarded the Limelight Award for innovative client solutions.
 Tools: Power BI, Tableau, Microsoft Excel, SQL, Python, Visual Studio
 
 - Mechanical Design Engineer - Dassault Systemes. (Jan 2020 - May 2020)
 Tools: 3ds Design, CATIA, ANSYS, Excel, SolidWorks
 
 - Mechanical Engineer Intern — Hyundai Motor India Ltd. (Jun 2019 – Jul 2019)
-    Applied statistical analysis on transmission and diagnostic datasets to support predictive maintenance models and root cause analysis.
+-       Applied statistical analysis on transmission and diagnostic datasets to support predictive maintenance models and root cause analysis.
 Tools: Excel, Matlab, Python, AutoCAD
 
 🚀 Projects
 - Cross-channel ads dashboard - [https://lookerstudio.google.com/s/nQ4ihMuTpnc](https://lookerstudio.google.com/reporting/1177996f-7793-448d-a588-1205666796c9)
-Unified advertising data from Facebook, Google, and TikTok into a single dataset using Google Sheets, then built an interactive cross-channel performance dashboard in Looker Studio. Includes data transformation documentation, calculated metrics (CTR, CPC, CPA), and platform-level insights.
+-       Unified advertising data from Facebook, Google, and TikTok into a single dataset using Google Sheets, then built an interactive cross-channel performance dashboard in Looker Studio. Includes data transformation documentation, calculated metrics (CTR, CPC, CPA), and platform-level insights.
 Tools: Google Sheets · Looker Studio
 
 - Loan eligibility prediction - [https://github.com/CSohini/Project-Classification-LoanEligibilityPrediction/tree/main]
-Evaluated Logistic Regression, K-NN, and Decision Tree models for home loan approval prediction. Achieved 86% accuracy using Logistic Regression with ~85% precision for classifying eligible customers.
+-      Evaluated Logistic Regression, K-NN, and Decision Tree models for home loan approval prediction. Achieved 86% accuracy using Logistic Regression with ~85% precision for classifying eligible customers.
 Tools: Python · sklearn
 
 - Financial accounting dashboard - [https://github.com/CSohini/Project-Financial-and-Managerial-Accounting]
-Built four Tableau dashboards covering company performance, financial health, operational efficiency, and future projections. Applied advanced data cleansing using Excel VBA macros to ensure data integrity.
+-       Built four Tableau dashboards covering company performance, financial health, operational efficiency, and future projections. Applied advanced data cleansing using Excel VBA macros to ensure data integrity.
 Tools: Tableau · Excel (VBA)
 
 - GA4 web analytics & digital marketing analysis - [https://github.com/CSohini/Web-Analytics-and-Digital-Marketing-Business-Performance-Analysis-Using-GoogleAnalytics-4-GA4-]
-Utilized Google Analytics 4 to track and analyze key business metrics, providing actionable insights on customer engagement, online performance, and sustainability impact.
+-       Utilized Google Analytics 4 to track and analyze key business metrics, providing actionable insights on customer engagement, online performance, and sustainability impact.
 Tools: Excel · Google Analytics 4
 
 - Image classification — NSDC data science - [https://colab.research.google.com/drive/1Ow3c2tVPGs4HkrsY5GGWwLtaqDBBdr-3?usp=sharing]
-Developed image classification models using Python, sklearn, and TensorFlow on Iris and CIFAR-10 datasets. Applied preprocessing techniques including one-hot encoding, feature reshaping, and EDA.
+-       Developed image classification models using Python, sklearn, and TensorFlow on Iris and CIFAR-10 datasets. Applied preprocessing techniques including one-hot encoding, feature reshaping, and EDA.
 Tools: Python · TensorFlow · sklearn
 
 
