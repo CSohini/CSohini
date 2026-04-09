@@ -12,11 +12,11 @@ Data Analyst with 5 years of experience driving data-informed decision-making ac
 - Bachelor of Technology in Mechanical Engineering — Mahindra University
 
 🛠 Technical skills
-      - Programming: Python (Pandas, NumPy, Jupyter Notebook) · SQL (CTEs, window functions, performance tuning)
-      - Data visualization & BI: Power BI (PL-300 Certified) · Looker Studio · QuickSight · Tableau
-      - Data engineering:  ETL pipelines · dbt · Airflow · data modeling · data governance · API integration
-      - Analytics: KPI design · A/B testing · cohort analysis · funnel analysis · forecasting · regression · predictive modeling · time series analysis · self-serve analytics · stakeholder reporting
-      - Tools & platforms: SQL Server · MySQL · AWS Redshift · AWS S3 · Snowflake · Power Automate · Excel (VBA)
+- Programming: Python (Pandas, NumPy, Jupyter Notebook) · SQL (CTEs, window functions, performance tuning)
+- Data visualization & BI: Power BI (PL-300 Certified) · Looker Studio · QuickSight · Tableau
+- Data engineering:  ETL pipelines · dbt · Airflow · data modeling · data governance · API integration
+- Analytics: KPI design · A/B testing · cohort analysis · funnel analysis · forecasting · regression · predictive modeling · time series analysis · self-serve analytics · stakeholder reporting
+- Tools & platforms: SQL Server · MySQL · AWS Redshift · AWS S3 · Snowflake · Power Automate · Excel (VBA)
 
 📄 Publications & research
 
@@ -28,15 +28,18 @@ to Conference on Language Modeling (COLM 2026).
 
 💼 Experience
 - Product Data Analyst, Fixed Ops — WarrCloud (Apr 2025 – Apr 2026)
-    Owned end-to-end KPI design and BI dashboarding in QuickSight. Built ETL pipelines and data validation frameworks improving data accuracy by 40%. Reduced ad hoc analysis requests by 35% through standardized reporting.
+      - Owned end-to-end KPI design and BI dashboarding in QuickSight.
+      - Built ETL pipelines and data validation frameworks improving data accuracy by 40%.
+      - Reduced ad hoc analysis requests by 35% through standardized reporting.
 Tools: AWS Redshift, QuickSight, SQL, Python, Sagemaker, Google Sheets, JIRA, Confluence, Kanban
 
 - Data Analyst — Community Dreams Foundation (Sep 2024 – Mar 2025)
-    Designed reporting frameworks tracking user acquisition, engagement, retention, and conversion metrics. Conducted cohort and segmentation analysis to inform outreach strategies.
+      - Designed reporting frameworks tracking user acquisition, engagement, retention, and conversion metrics.
+      - Conducted cohort and segmentation analysis to inform outreach strategies.
 Tools: Power BI, Microsoft Excel, SQL, dbt, Visual Studio
 
 - Research Data Analyst — Mordor Intelligence (Jul 2020 – Jan 2023)
-    SQL and Python-based analysis including regression, forecasting, and A/B testing across 10+ industry verticals. Mentored 6 analysts, increasing team efficiency by 30%. Awarded the Limelight Award for innovative client solutions.
+-       SQL and Python-based analysis including regression, forecasting, and A/B testing across 10+ industry verticals. Mentored 6 analysts, increasing team efficiency by 30%. Awarded the Limelight Award for innovative client solutions.
 Tools: Power BI, Tableau, Microsoft Excel, SQL, Python, Visual Studio
 
 - Mechanical Design Engineer - Dassault Systemes. (Jan 2020 - May 2020)
