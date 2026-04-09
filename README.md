@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Sohini Chintala
 
 Data Analyst with 5 years of experience driving data-informed decision-making across product, operations, and market analytics. Expertise in SQL, Python, and BI tools including Power BI, Looker Studio, QuickSight, and Tableau. 
-Published researcher at three international conferences in 2026.
+- Published researcher at three international conferences in 2026.
 
 - 📫 sohinic999@gmail.com
 - 🌐 [Portfolio](https://sohinichintala.my.canva.site/
