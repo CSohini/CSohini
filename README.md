@@ -31,24 +31,24 @@ to Conference on Language Modeling (COLM 2026).
 -       Owned end-to-end KPI design and BI dashboarding in QuickSight.
         Built ETL pipelines and data validation frameworks improving data accuracy by 40%.
         Reduced ad hoc analysis requests by 35% through standardized reporting.
-Tools: AWS Redshift, QuickSight, SQL, Python, Sagemaker, Google Sheets, JIRA, Confluence, Kanban
+-         Tools: AWS Redshift, QuickSight, SQL, Python, Sagemaker, Google Sheets, JIRA, Confluence, Kanban
 
 - Data Analyst — Community Dreams Foundation (Sep 2024 – Mar 2025)
 -       Designed reporting frameworks tracking user acquisition, engagement, retention, and conversion metrics.
         Conducted cohort and segmentation analysis to inform outreach strategies.
-Tools: Power BI, Microsoft Excel, SQL, dbt, Visual Studio
+-         Tools: Power BI, Microsoft Excel, SQL, dbt, Visual Studio
 
 - Research Data Analyst — Mordor Intelligence (Jul 2020 – Jan 2023)
 -       SQL and Python-based analysis including regression, forecasting, and A/B testing across 10+ industry verticals.
         Mentored 6 analysts, increasing team efficiency by 30%. Awarded the Limelight Award for innovative client solutions.
-Tools: Power BI, Tableau, Microsoft Excel, SQL, Python, Visual Studio
+-         Tools: Power BI, Tableau, Microsoft Excel, SQL, Python, Visual Studio
 
 - Mechanical Design Engineer - Dassault Systemes. (Jan 2020 - May 2020)
-Tools: 3ds Design, CATIA, ANSYS, Excel, SolidWorks
+-         Tools: 3ds Design, CATIA, ANSYS, Excel, SolidWorks
 
 - Mechanical Engineer Intern — Hyundai Motor India Ltd. (Jun 2019 – Jul 2019)
 -       Applied statistical analysis on transmission and diagnostic datasets to support predictive maintenance models and root cause analysis.
-Tools: Excel, Matlab, Python, AutoCAD
+-         Tools: Excel, Matlab, Python, AutoCAD
 
 🚀 Projects
 - Cross-channel ads dashboard - [https://lookerstudio.google.com/s/nQ4ihMuTpnc](https://lookerstudio.google.com/reporting/1177996f-7793-448d-a588-1205666796c9)
