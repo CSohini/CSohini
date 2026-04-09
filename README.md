@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sohini Chintala
 
-Data Analyst with 5 years of experience driving data-informed decision-making across product, operations, and market analytics. Expertise in SQL, Python, and BI tools including Power BI, Looker Studio, QuickSight, and Tableau. 
+Data Analyst/ Engineer with 5 years of experience driving data-informed decision-making across product, operations, and market analytics. Expertise in SQL, Python, and BI tools including Power BI, Looker Studio, QuickSight, and Tableau. 
 - Published researcher at three international conferences in 2026.
 
 - 📫 sohinic999@gmail.com
@@ -27,7 +27,7 @@ the International Business Analytics Conference (IBAC 2026).
 to Conference on Language Modeling (COLM 2026).
 
 💼 Experience
-- Product Data Analyst, Fixed Ops — WarrCloud (Apr 2025 – Apr 2026)
+- Product Data Analyst, Fixed Ops Catalog — WarrCloud (Apr 2025 – Apr 2026)
 -       Owned end-to-end KPI design and BI dashboarding in QuickSight.
         Built ETL pipelines and data validation frameworks improving data accuracy by 40%.
         Reduced ad hoc analysis requests by 35% through standardized reporting.
