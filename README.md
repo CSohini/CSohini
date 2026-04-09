@@ -40,7 +40,7 @@ Tools: Power BI, Microsoft Excel, SQL, dbt, Visual Studio
 
 - Research Data Analyst — Mordor Intelligence (Jul 2020 – Jan 2023)
 -       SQL and Python-based analysis including regression, forecasting, and A/B testing across 10+ industry verticals.
-           Mentored 6 analysts, increasing team efficiency by 30%. Awarded the Limelight Award for innovative client solutions.
+        Mentored 6 analysts, increasing team efficiency by 30%. Awarded the Limelight Award for innovative client solutions.
 Tools: Power BI, Tableau, Microsoft Excel, SQL, Python, Visual Studio
 
 - Mechanical Design Engineer - Dassault Systemes. (Jan 2020 - May 2020)
