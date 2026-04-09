@@ -29,8 +29,8 @@ to Conference on Language Modeling (COLM 2026).
 💼 Experience
 - Product Data Analyst, Fixed Ops — WarrCloud (Apr 2025 – Apr 2026)
 -       Owned end-to-end KPI design and BI dashboarding in QuickSight.
--       Built ETL pipelines and data validation frameworks improving data accuracy by 40%.
--       Reduced ad hoc analysis requests by 35% through standardized reporting.
+        Built ETL pipelines and data validation frameworks improving data accuracy by 40%.
+        Reduced ad hoc analysis requests by 35% through standardized reporting.
 Tools: AWS Redshift, QuickSight, SQL, Python, Sagemaker, Google Sheets, JIRA, Confluence, Kanban
 
 - Data Analyst — Community Dreams Foundation (Sep 2024 – Mar 2025)
